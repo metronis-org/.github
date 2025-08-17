@@ -71,6 +71,7 @@ Get the development environment running on your local machine with a single comm
 - **API Docs:** [http://localhost:8000/docs](http://localhost:8000/docs)  
 
 .
+
 ## Roadmap
 
 Metronis Health-RL follows a **12-week public roadmap**.  
@@ -78,7 +79,7 @@ Metronis Health-RL follows a **12-week public roadmap**.
 - **Current phase:** *Phase 1 – Advanced Foundations & Open-Source Kickstart*  
 - Track progress via our [GitHub Project Board](https://github.com/orgs/metronis-org/projects/YOUR_PROJECT_ID).  
 
-.
+
 
 ##  Contributing
 
@@ -88,20 +89,20 @@ We welcome all contributions — code, docs, ideas, and research!
 2. Pick an issue (see *good first issue* labels)  
 3. Join the community discussion 🚀  
 
-.
+
 
 ##  Community
 
 - **Discord:** [Join our server]([https://discord.gg/YOUR_INVITE_LINK](https://discord.gg/eat4aak9))  
 - **Weekly Calls:** Open community calls (schedule announced on Discord).  
 
-.
+
 
 ##  License
 
 Licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file.
 
-.
+
 
 ##  Citing This Work
 
