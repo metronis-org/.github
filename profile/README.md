@@ -9,21 +9,21 @@
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/metronis-org/health-rl?style=for-the-badge">  
 </p>
 
-.
+
 
 ## Mission
 Metronis Health-RL aims to build the world’s most comprehensive, open-source, **RL-native evaluation and safety framework for healthcare voice/text agents** — establishing a new global standard for trust and efficacy.  
 
 This repository contains the **full-stack implementation** of a framework designed to **evaluate, monitor, and safeguard RL agents** in the high-stakes domain of healthcare.  
 
-.
+
 
 ##  Why Metronis Health-RL?
 While AI is poised to transform healthcare, **Reinforcement Learning (RL)** introduces risks unlike those seen in traditional ML. Current evaluation and MLOps tools cannot handle the **non-stationary, dynamic policies** of RL.  
 
 Metronis Health-RL fills this critical gap with a **transparent, community-driven standard** trusted by clinicians, regulators, and patients.  
 
-.
+
 
 ##  Features
 -  **RL-Native Evaluation Suite** – Detect Policy Drift, Reward Hacking, Constraint Violations, and Catastrophic Forgetting.  
@@ -48,7 +48,6 @@ Monorepo structure for full-stack integration:
 /infra        → Terraform IaC for HIPAA-compliant multi-cloud
 /research     → Reproducible research papers & experiments
 
-.
 
 ##  Quick Start
 
@@ -64,13 +63,13 @@ Get the development environment running on your local machine with a single comm
    git clone https://github.com/metronis-org/health-rl.git
    cd health-rl
 
-.
+
 ##  Usage
 
 - **Dashboard:** [http://localhost:3000](http://localhost:3000)  
 - **API Docs:** [http://localhost:8000/docs](http://localhost:8000/docs)  
 
-.
+
 
 ## Roadmap
 
