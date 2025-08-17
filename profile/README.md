@@ -9,7 +9,7 @@
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/metronis-org/health-rl?style=for-the-badge">  
 </p>
 
----
+.
 
 ## Mission
 Metronis Health-RL aims to build the world’s most comprehensive, open-source, **RL-native evaluation and safety framework for healthcare voice/text agents** — establishing a new global standard for trust and efficacy.  
