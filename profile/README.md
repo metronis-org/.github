@@ -2,14 +2,24 @@
 
 # Metronis Health-RL  
 **The Open-Source Evaluation & Safety Framework for Healthcare RL Agents**
-
 <p align="center">  
+  <!-- CI Build -->
   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/metronis-org/health-rl/ci.yml?branch=main&style=for-the-badge">  
-  <img alt="Codecov" src="https://img.shields.io/codecov/c/github/metronis-org/health-rl?style=for-the-badge&token=YOUR_CODECOV_TOKEN">  
+
+  <!-- Code Coverage -->
+  <img alt="Codecov" src="https://img.shields.io/codecov/c/github/metronis-org/health-rl?token=YOUR_CODECOV_TOKEN&style=for-the-badge">  
+
+  <!-- License -->
   <img alt="GitHub" src="https://img.shields.io/github/license/metronis-org/health-rl?style=for-the-badge">  
-  <img alt="Discord" src="https://img.shields.io/discord/YOUR_DISCORD_ID?label=Join%20Community&style=for-the-badge">  
+
+  <!-- Discord -->
+  <a href="https://discord.gg/eat4aak9">
+    <img alt="Discord" src="https://img.shields.io/discord/1406534320889270292?label=Join%20Community&style=for-the-badge">
+  </a>  
+
+  <!-- Stars -->
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/metronis-org/health-rl?style=for-the-badge">  
-</p>
+</p>  
 
 
 
