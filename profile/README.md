@@ -1,4 +1,4 @@
-# Metronis Health-RL  
+<img width="1714" height="128" alt="image" src="https://github.com/user-attachments/assets/fac9f357-8000-4d61-bec8-c9e756e73d2c" /># Metronis Health-RL  
 **The Open-Source Evaluation & Safety Framework for Healthcare RL Agents**
 
 <p align="center">  
@@ -16,14 +16,14 @@ Metronis Health-RL aims to build the world’s most comprehensive, open-source, 
 
 This repository contains the **full-stack implementation** of a framework designed to **evaluate, monitor, and safeguard RL agents** in the high-stakes domain of healthcare.  
 
----
+.
 
 ##  Why Metronis Health-RL?
 While AI is poised to transform healthcare, **Reinforcement Learning (RL)** introduces risks unlike those seen in traditional ML. Current evaluation and MLOps tools cannot handle the **non-stationary, dynamic policies** of RL.  
 
 Metronis Health-RL fills this critical gap with a **transparent, community-driven standard** trusted by clinicians, regulators, and patients.  
 
----
+.
 
 ##  Features
 -  **RL-Native Evaluation Suite** – Detect Policy Drift, Reward Hacking, Constraint Violations, and Catastrophic Forgetting.  
@@ -35,7 +35,7 @@ Metronis Health-RL fills this critical gap with a **transparent, community-drive
 - **Federated by Design** – Privacy-preserving, multi-institution evaluation without data sharing.  
 -  **Edge & Hybrid Deployment** – Runs on-device, in cloud, or in air-gapped healthcare setups.  
 
----
+.
 
 ##  Architecture
 Monorepo structure for full-stack integration:
@@ -48,10 +48,9 @@ Monorepo structure for full-stack integration:
 /infra        → Terraform IaC for HIPAA-compliant multi-cloud
 /research     → Reproducible research papers & experiments
 
+.
 
----
-
-## ⚡ Quick Start
+##  Quick Start
 
 Get the development environment running on your local machine with a single command.
 
@@ -65,14 +64,13 @@ Get the development environment running on your local machine with a single comm
    git clone https://github.com/metronis-org/health-rl.git
    cd health-rl
 
----
+.
 ##  Usage
 
 - **Dashboard:** [http://localhost:3000](http://localhost:3000)  
 - **API Docs:** [http://localhost:8000/docs](http://localhost:8000/docs)  
 
----
-
+.
 ## Roadmap
 
 Metronis Health-RL follows a **12-week public roadmap**.  
@@ -80,7 +78,7 @@ Metronis Health-RL follows a **12-week public roadmap**.
 - **Current phase:** *Phase 1 – Advanced Foundations & Open-Source Kickstart*  
 - Track progress via our [GitHub Project Board](https://github.com/orgs/metronis-org/projects/YOUR_PROJECT_ID).  
 
----
+.
 
 ##  Contributing
 
@@ -90,20 +88,20 @@ We welcome all contributions — code, docs, ideas, and research!
 2. Pick an issue (see *good first issue* labels)  
 3. Join the community discussion 🚀  
 
----
+.
 
 ##  Community
 
 - **Discord:** [Join our server]([https://discord.gg/YOUR_INVITE_LINK](https://discord.gg/eat4aak9))  
 - **Weekly Calls:** Open community calls (schedule announced on Discord).  
 
----
+.
 
 ##  License
 
 Licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file.
 
----
+.
 
 ##  Citing This Work
 
