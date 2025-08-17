@@ -44,18 +44,19 @@ Metronis Health-RL fills this critical gap with a **transparent, community-drive
 - **Federated by Design** – Privacy-preserving, multi-institution evaluation without data sharing.  
 -  **Edge & Hybrid Deployment** – Runs on-device, in cloud, or in air-gapped healthcare setups.  
 
-.
+
 
 ##  Architecture
-Monorepo structure for full-stack integration:
-/agents       → RL algorithms, perception, reasoning, memory
-/evals        → Benchmarks, simulators, metrics, causal analysis
-/safety       → Guardrails, adversarial testing, monitoring
-/data         → Synthetic data, ETL pipelines, ontologies
-/simulation   → Gym-style healthcare environments
-/dashboard    → React frontend for visualization
-/infra        → Terraform IaC for HIPAA-compliant multi-cloud
-/research     → Reproducible research papers & experiments
+The project follows a **monorepo structure** with the following components:
+
+- **/agents** → RL algorithms for perception, reasoning, and memory  
+- **/evals** → Benchmarks, simulators, metrics, and causal analysis  
+- **/safety** → Guardrails, adversarial testing, and monitoring  
+- **/data** → Synthetic data generation, ETL pipelines, and ontologies  
+- **/simulation** → Gym-style healthcare environments  
+- **/dashboard** → React frontend for visualization  
+- **/infra** → Terraform IaC for HIPAA-compliant multi-cloud deployments  
+- **/research** → Reproducible research papers & experiments  
 
 
 ##  Quick Start
