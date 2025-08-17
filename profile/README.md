@@ -6,9 +6,6 @@
   <!-- CI Build -->
   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/metronis-org/health-rl/ci.yml?branch=main&style=for-the-badge">  
 
-  <!-- Code Coverage -->
-  <img alt="Codecov" src="https://img.shields.io/codecov/c/github/metronis-org/health-rl?token=YOUR_CODECOV_TOKEN&style=for-the-badge">  
-
   <!-- License -->
   <img alt="GitHub" src="https://img.shields.io/github/license/metronis-org/health-rl?style=for-the-badge">  
 
