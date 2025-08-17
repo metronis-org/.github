@@ -50,14 +50,30 @@ Monorepo structure for full-stack integration:
 
 
 ---
-## ⚡ Usage
+
+## ⚡ Quick Start
+
+Get the development environment running on your local machine with a single command.
+
+### **Prerequisites**
+- Docker and Docker Compose  
+- Git  
+
+### **Installation**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/metronis-org/health-rl.git
+   cd health-rl
+
+---
+##  Usage
 
 - **Dashboard:** [http://localhost:3000](http://localhost:3000)  
 - **API Docs:** [http://localhost:8000/docs](http://localhost:8000/docs)  
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 Metronis Health-RL follows a **12-week public roadmap**.  
 
@@ -66,7 +82,7 @@ Metronis Health-RL follows a **12-week public roadmap**.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome all contributions — code, docs, ideas, and research!  
 
@@ -76,9 +92,22 @@ We welcome all contributions — code, docs, ideas, and research!
 
 ---
 
-## 💬 Community
+##  Community
 
-- **Discord:** [Join our server](https://discord.gg/YOUR_INVITE_LINK)  
+- **Discord:** [Join our server]([https://discord.gg/YOUR_INVITE_LINK](https://discord.gg/eat4aak9))  
 - **Weekly Calls:** Open community calls (schedule announced on Discord).  
+
+---
+
+##  License
+
+Licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file.
+
+---
+
+##  Citing This Work
+
+If you use this framework in your research, please consider citing it.  
+(Citation format to be added upon first release/publication.)
 
 
